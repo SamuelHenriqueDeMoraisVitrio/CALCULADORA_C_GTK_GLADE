@@ -149,11 +149,11 @@
       "-x",
       "c",
       "-o",
-      "/tmp/main-ab512d.o",
+      "/tmp/main-4a0a1b.o",
       "main.c"
     ],
     "directory": "/home/samuel/Documentos/proc/ui/CALCULADORA_C_GTK_GLADE",
     "file": "/home/samuel/Documentos/proc/ui/CALCULADORA_C_GTK_GLADE/main.c",
-    "output": "/tmp/main-ab512d.o"
+    "output": "/tmp/main-4a0a1b.o"
   }
 ]
